@@ -1,0 +1,6 @@
+*.log
+*.out
+*.pid
+__pycache__/
+.venv/
+config.local.toml
